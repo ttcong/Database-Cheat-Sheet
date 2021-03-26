@@ -1,3 +1,3 @@
 # database-cheat-sheet
 
-Some simple tutorial for databases.
+Some simple tutorials for databases.
